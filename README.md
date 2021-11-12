@@ -13,7 +13,7 @@
 Talented React and React Native Developer capable of building performant web and mobile apps on both the iOS and Android platforms. Responsible for architecting and building these applications, as well as coordinating with the teams responsible for other layers of the product infrastructure.
 
 - 💻 I'm a Software Engineer - React Native [@Contact Financial Holding](https://contact.eg/) in Cairo, Egypt.
-- I have accomplished several stable projects in production, including:
+- 🎉 I have accomplished several stable projects in production, including:
   - Zeedu ([App Store link](https://apps.apple.com/us/app/zeedu/id1563041684), [Google Play link](https://play.google.com/store/apps/details?id=com.zeedu), [Website link](https://www.zeedulearn.com/))
   - أفندينا – Afaandina ([Google Play link](https://play.google.com/store/apps/details?id=com.afaandina))
   - AAN ([App Store link](https://apps.apple.com/eg/app/aan/id1546494516), [Google Play link](https://play.google.com/store/apps/details?id=com.Tacweed.AAN))
