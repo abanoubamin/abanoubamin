@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/abanoub1amin/?fbclid=IwAR2YN9mb44nlQ1Ip7iH38rVJ4t4UWOCwmprdpRqn86xo4Pm1-MVY-9GGiFM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+<img src="https://github.com/abanoubamin/abanoubamin/blob/main/profile-img.png" align="right" width="25%"/>
 
 Talented React and React Native Developer capable of building performant web and mobile apps on both the iOS and Android platforms. Responsible for architecting and building these applications, as well as coordinating with the teams responsible for other layers of the product infrastructure.
 
