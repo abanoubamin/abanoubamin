@@ -14,6 +14,8 @@ Talented React and React Native Developer capable of building performant web and
 
 - 💻 I'm a Software Engineer - React Native [@Contact Financial Holding](https://contact.eg/) in Cairo, Egypt.
 - 🎉 I have accomplished several stable projects in production, including:
+  - Contact ([App Store link](https://apps.apple.com/us/app/contact/id1544159088), [Google Play link](https://play.google.com/store/apps/details?id=eg.contact))
+  - SnapSell ([App Store link](https://apps.apple.com/ch/app/snapsell-app/id1583828203?l=en), [Google Play link](https://play.google.com/store/apps/details?id=com.snapsell.app))
   - Zeedu ([App Store link](https://apps.apple.com/us/app/zeedu/id1563041684), [Google Play link](https://play.google.com/store/apps/details?id=com.zeedu), [Website link](https://www.zeedulearn.com/))
   - أفندينا – Afaandina ([Google Play link](https://play.google.com/store/apps/details?id=com.afaandina))
   - AAN ([App Store link](https://apps.apple.com/eg/app/aan/id1546494516), [Google Play link](https://play.google.com/store/apps/details?id=com.Tacweed.AAN))
