@@ -13,13 +13,13 @@
 
 Organized, detail-oriented, and conscientious Software Engineer - React and React Native capable of building performant web and mobile apps on both the iOS and Android platforms. Responsible for architecting and building these applications, as well as coordinating with the teams responsible for other layers of the product infrastructure.
 
-- 💻 I'm a Software Engineer - React Native [@Contact Financial Holding](https://contact.eg/) in Cairo, Egypt.
-- 🎉 I have accomplished several stable projects in production, including:
+- 💻 I'm a Software Engineer - React Native [@dlivr.io](https://www.dlivr.io/) in Cairo, Egypt.
+- 🎉 I have participated and accomplished several stable projects in production, including:
+  - DEPOT Home & Living ([App Store link](https://apps.apple.com/de/app/depot-home-living/id575217286), [Google Play link](https://play.google.com/store/apps/details?id=com.gries_deco_company.depot_heimweh))
   - Contact ([App Store link](https://apps.apple.com/us/app/contact/id1544159088), [Google Play link](https://play.google.com/store/apps/details?id=eg.contact))
   - SnapSell ([App Store link](https://apps.apple.com/ch/app/snapsell-app/id1583828203?l=en), [Google Play link](https://play.google.com/store/apps/details?id=com.snapsell.app))
+  - Angelroute ([App Store link](https://apps.apple.com/us/app/angelroute-angelkarten-app/id1633192526?uo=2), [Google Play link](https://play.google.com/store/apps/details?id=de.angelroute.fisherman))
   - Zeedu ([App Store link](https://apps.apple.com/us/app/zeedu/id1563041684), [Google Play link](https://play.google.com/store/apps/details?id=com.zeedu), [Website link](https://www.zeedulearn.com/))
-  - أفندينا – Afaandina ([Google Play link](https://play.google.com/store/apps/details?id=com.afaandina))
-  - AAN ([App Store link](https://apps.apple.com/eg/app/aan/id1546494516), [Google Play link](https://play.google.com/store/apps/details?id=com.Tacweed.AAN))
 
 <!---
 abanoubamin/abanoubamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
