@@ -17,6 +17,7 @@ Organized, detail-oriented, and conscientious Software Engineer - React and Reac
 - 🎉 I have participated and accomplished several stable projects in production, including:
   - DEPOT Home & Living ([App Store link](https://apps.apple.com/de/app/depot-home-living/id575217286), [Google Play link](https://play.google.com/store/apps/details?id=com.gries_deco_company.depot_heimweh))
   - Contact ([App Store link](https://apps.apple.com/us/app/contact/id1544159088), [Google Play link](https://play.google.com/store/apps/details?id=eg.contact))
+  - SECACAM ([App Store link](https://apps.apple.com/in/app/secacam/id1416672074), [Google Play link](https://play.google.com/store/apps/details?id=de.VenTrade.SecaCam))
   - SnapSell ([App Store link](https://apps.apple.com/ch/app/snapsell-app/id1583828203?l=en), [Google Play link](https://play.google.com/store/apps/details?id=com.snapsell.app))
   - Angelroute ([App Store link](https://apps.apple.com/us/app/angelroute-angelkarten-app/id1633192526?uo=2), [Google Play link](https://play.google.com/store/apps/details?id=de.angelroute.fisherman))
   - Zeedu ([App Store link](https://apps.apple.com/us/app/zeedu/id1563041684), [Google Play link](https://play.google.com/store/apps/details?id=com.zeedu), [Website link](https://www.zeedulearn.com/))
