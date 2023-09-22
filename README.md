@@ -17,6 +17,7 @@ Organized, detail-oriented, and conscientious Software Engineer - React and Reac
 - 🎉 I have participated and accomplished several stable projects in production, including:
   - DEPOT Home & Living ([App Store link](https://apps.apple.com/de/app/depot-home-living/id575217286), [Google Play link](https://play.google.com/store/apps/details?id=com.gries_deco_company.depot_heimweh))
   - Contact ([App Store link](https://apps.apple.com/us/app/contact/id1544159088), [Google Play link](https://play.google.com/store/apps/details?id=eg.contact))
+  - Smoobu ([Website link](https://www.smoobu.com/en/lp/?sc=GBWEN&ppc_campaign_id=12427800621&ppc_adgroup_id=120843288920&ppc_ad_id=656247802224&ppc_placement=&ppc_keyword=smoobu&ppc_extension_id=&ppc_target=&ppc_target_id=kwd-367069806370&ppc_location=9112373&ppc_device=c&ppc_device_model=&ppc_network=g&ppc_matchtype=e&ppc_position=&gad=1&gclid=Cj0KCQjw9rSoBhCiARIsAFOiplmNio-Gi6ZmwpUyIkO9rVa81-HP7tVSEaLGEhRK__jZJj0Gh-y71wMaAtdxEALw_wcB))
   - SECACAM ([App Store link](https://apps.apple.com/in/app/secacam/id1416672074), [Google Play link](https://play.google.com/store/apps/details?id=de.VenTrade.SecaCam))
   - SnapSell ([App Store link](https://apps.apple.com/ch/app/snapsell-app/id1583828203?l=en), [Google Play link](https://play.google.com/store/apps/details?id=com.snapsell.app))
   - Angelroute ([App Store link](https://apps.apple.com/us/app/angelroute-angelkarten-app/id1633192526?uo=2), [Google Play link](https://play.google.com/store/apps/details?id=de.angelroute.fisherman))
