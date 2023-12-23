@@ -13,7 +13,7 @@
 
 Highly organized, detail-oriented, and conscientious Senior Software Engineer specializing in React and React Native, demonstrating over 3 years of proven success in developing high-performance web and mobile applications for both iOS and Android platforms. Proficient in architecting and building applications while seamlessly collaborating with cross-functional teams to ensure cohesive integration across various layers of the product infrastructure.
 
-- 💻 I'm a Senior Software Engineer - React Native [NFQ](https://nfq.com/) in Cairo, Egypt.
+- 💻 I'm a Senior Software Engineer - React Native at [NFQ](https://nfq.com/) in Cairo, Egypt.
 - 🎉 I have participated and accomplished several stable projects in production, including:
   - ContactNow ([App Store link](https://apps.apple.com/us/app/contact/id1544159088), [Google Play link](https://play.google.com/store/apps/details?id=eg.contact))
   - DEPOT Home & Living ([App Store link](https://apps.apple.com/de/app/depot-home-living/id575217286), [Google Play link](https://play.google.com/store/apps/details?id=com.gries_deco_company.depot_heimweh))
