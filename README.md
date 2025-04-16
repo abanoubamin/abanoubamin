@@ -19,7 +19,6 @@ Highly organized, detail-oriented, and conscientious Senior Software Engineer sp
   - DEPOT Home & Living ([App Store link](https://apps.apple.com/de/app/depot-home-living/id575217286), [Google Play link](https://play.google.com/store/apps/details?id=com.gries_deco_company.depot_heimweh))
   - Smoobu ([Website link](https://www.smoobu.com/en/lp/?sc=GBWEN&ppc_campaign_id=12427800621&ppc_adgroup_id=120843288920&ppc_ad_id=656247802224&ppc_placement=&ppc_keyword=smoobu&ppc_extension_id=&ppc_target=&ppc_target_id=kwd-367069806370&ppc_location=9112373&ppc_device=c&ppc_device_model=&ppc_network=g&ppc_matchtype=e&ppc_position=&gad=1&gclid=Cj0KCQjw9rSoBhCiARIsAFOiplmNio-Gi6ZmwpUyIkO9rVa81-HP7tVSEaLGEhRK__jZJj0Gh-y71wMaAtdxEALw_wcB))
   - ZEISS Secacam ([App Store link](https://apps.apple.com/in/app/zeiss-secacam/id6445957316), [Google Play link](https://play.google.com/store/apps/details?id=de.zeiss.cop.caledonia))
-  - SnapSell ([Google Play link](https://play.google.com/store/apps/details?id=com.snapsell.app))
   - Angelroute ([App Store link](https://apps.apple.com/us/app/angelroute-angelkarten-app/id1633192526?uo=2), [Google Play link](https://play.google.com/store/apps/details?id=de.angelroute.fisherman))
   - MYKOM ([App Store link](https://apps.apple.com/ae/app/mykom-%D9%85%D8%A7%D9%8A%D9%83%D9%88%D9%85/id1638383150), [Google Play link](https://play.google.com/store/apps/details?id=com.mykomappuae.co))
 
