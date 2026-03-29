@@ -17,7 +17,7 @@ Highly organized, detail-oriented, and conscientious Senior Software Engineer sp
 - 🎉 I have participated and accomplished several stable projects in production, including:
   - ContactNow ([App Store link](https://apps.apple.com/us/app/contact/id1544159088), [Google Play link](https://play.google.com/store/apps/details?id=eg.contact))
   - DEPOT Home & Living ([App Store link](https://apps.apple.com/de/app/depot-home-living/id575217286), [Google Play link](https://play.google.com/store/apps/details?id=com.gries_deco_company.depot_heimweh))
-  - Smoobu ([Website link](https://login.smoobu.com/en/login?sc=LoginHomeTopButton_EN_20122024))
+  - Smoobu ([Website link](https://www.smoobu.com/en/))
   - ZEISS Secacam ([App Store link](https://apps.apple.com/in/app/zeiss-secacam/id6445957316), [Google Play link](https://play.google.com/store/apps/details?id=de.zeiss.cop.caledonia))
   - Angelroute ([App Store link](https://apps.apple.com/us/app/angelroute-angelkarten-app/id1633192526?uo=2), [Google Play link](https://play.google.com/store/apps/details?id=de.angelroute.fisherman))
   - MYKOM ([App Store link](https://apps.apple.com/ae/app/mykom-%D9%85%D8%A7%D9%8A%D9%83%D9%88%D9%85/id1638383150), [Google Play link](https://play.google.com/store/apps/details?id=com.mykomappuae.co))
