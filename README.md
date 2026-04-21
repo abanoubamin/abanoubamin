@@ -83,7 +83,7 @@ Highly organized, detail-oriented Senior Software Engineer with **5+ years of ex
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubamin&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubamin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Car-Rental-System,HeroSpin,My-Calculator,Months-Expenses,Hotel-Reservations-System,ArcMap,HTTP-Server,3D-Snake,FOS-KERNEL-PROJECT,Sounds-Packing,Matrix-Calculator,Complete-MIPS-CPU,Airline-Reservation,Music-Sorter,SecurityPackage,Accidental_Drug_Related_Deaths_2012-2018-Analysis,Nile_project,currency-exchange,complete-javascript-course,GraphQLCasts,udemy-ENZYME,discover-videos,discover-coffee-stores,react-native-template,AdvancedReactNative,awesome-github-profile-readme-templates,course-collaboration-travel-plans" width="40%" alt="Top Languages"/>
 </p>
 
 ---
