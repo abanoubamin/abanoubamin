@@ -22,7 +22,7 @@
 
 Highly organized, detail-oriented Senior Software Engineer with **5+ years of experience** building high-performance web and mobile applications for iOS and Android. Passionate about clean architecture, cross-functional collaboration, and delivering production-ready products at scale.
 
-- 🏢 Currently at **[NFQ](https://nfq.com/)** as a Senior Software Engineer (React | React Native)
+- 🏢 Currently at **[CIB](https://www.cibeg.com/)** as a Senior Software Engineer (React | React Native)
 - 📍 Based in **Cairo, Egypt**
 - 📱 Shipped multiple apps live on the **App Store** and **Google Play**
 - 🤝 Experienced collaborating with cross-functional teams across different time zones
@@ -65,14 +65,16 @@ Highly organized, detail-oriented Senior Software Engineer with **5+ years of ex
 
 ### 🚀 Featured Projects
 
-| Project | Platform | Description |
-|---------|----------|-------------|
-| **ContactNow** | [App Store](https://apps.apple.com/us/app/contact/id1544159088) · [Google Play](https://play.google.com/store/apps/details?id=eg.contact) | Financial app covering financing & shopping needs via Egypt's biggest brand partners |
-| **DEPOT Home & Living** | [App Store](https://apps.apple.com/de/app/depot-home-living/id575217286) · [Google Play](https://play.google.com/store/apps/details?id=com.gries_deco_company.depot_heimweh) | E-commerce app for home & living |
-| **Smoobu** | [Website](https://www.smoobu.com/en/) | Short-term rental management platform |
-| **ZEISS Secacam** | [App Store](https://apps.apple.com/in/app/zeiss-secacam/id6445957316) · [Google Play](https://play.google.com/store/apps/details?id=de.zeiss.cop.caledonia) | Smart security camera app by ZEISS |
-| **Angelroute** | [App Store](https://apps.apple.com/us/app/angelroute-angelkarten-app/id1633192526?uo=2) · [Google Play](https://play.google.com/store/apps/details?id=de.angelroute.fisherman) | Fishing maps & routes app |
-| **MYKOM** | [App Store](https://apps.apple.com/ae/app/mykom-%D9%85%D8%A7%D9%8A%D9%83%D9%88%D9%85/id1638383150) · [Google Play](https://play.google.com/store/apps/details?id=com.mykomappuae.co) | UAE-based community services app |
+| Project                 | Platform                                                                                                                                                                             | Description                                                                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CIB Mobile Banking**  | [App Store](https://apps.apple.com/eg/app/cib-mobile-banking-app/id6618151705) · [Google Play](https://play.google.com/store/apps/details?id=com.cibeg.ddc1.digitalbanking.live)     | Digital banking app for Commercial International Bank (CIB), enabling account management, payments, transfers, cards, loans, and banking services |
+| **ContactNow**          | [App Store](https://apps.apple.com/us/app/contact/id1544159088) · [Google Play](https://play.google.com/store/apps/details?id=eg.contact)                                            | Financial app covering financing & shopping needs via Egypt's biggest brand partners                                                              |
+| **DEPOT Home & Living** | [App Store](https://apps.apple.com/de/app/depot-home-living/id575217286) · [Google Play](https://play.google.com/store/apps/details?id=com.gries_deco_company.depot_heimweh)         | E-commerce app for home & living                                                                                                                  |
+| **Smoobu**              | [Website](https://www.smoobu.com/en/)                                                                                                                                                | Short-term rental management platform                                                                                                             |
+| **ZEISS Secacam**       | [App Store](https://apps.apple.com/in/app/zeiss-secacam/id6445957316) · [Google Play](https://play.google.com/store/apps/details?id=de.zeiss.cop.caledonia)                          | Smart security camera app by ZEISS                                                                                                                |
+| **Angelroute**          | [App Store](https://apps.apple.com/us/app/angelroute-angelkarten-app/id1633192526?uo=2) · [Google Play](https://play.google.com/store/apps/details?id=de.angelroute.fisherman)       | Fishing maps & routes app                                                                                                                         |
+| **MYKOM**               | [App Store](https://apps.apple.com/ae/app/mykom-%D9%85%D8%A7%D9%8A%D9%83%D9%88%D9%85/id1638383150) · [Google Play](https://play.google.com/store/apps/details?id=com.mykomappuae.co) | UAE-based community services app                                                                                                                  |
+
 
 ---
 
